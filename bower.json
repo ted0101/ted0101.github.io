@@ -1,0 +1,19 @@
+{
+  "name": "ted0101.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ted0101/ted0101.github.io",
+  "authors": [
+    "ted0101 <f50715@yahoo.com.tw>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
